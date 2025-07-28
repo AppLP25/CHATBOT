@@ -1,0 +1,21 @@
+{
+  "name": "LocumPoint Agent",
+  "short_name": "LP Agent",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "description": "AI assistant for finding LocumPoint jobs.",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/1e40af/ffffff?text=LP",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/1e40af/ffffff?text=LP",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
